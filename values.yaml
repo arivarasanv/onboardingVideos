@@ -1,0 +1,13 @@
+environment: dev
+type: ui
+service:
+  port: 8080
+domain:
+  name: craftsmen
+ingress:
+  enabled: true
+  hosts:
+    - name: craftsmen
+      host: bfl-form.craftsmen.dev.libra.bawag.com
+metrics:
+  nginx: true

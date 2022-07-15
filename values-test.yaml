@@ -1,0 +1,5 @@
+environment: test
+ingress:
+  hosts:
+    - name: craftsmen
+      host: bfl-form.craftsmen.tst.libra.bawag.com

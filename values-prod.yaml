@@ -1,0 +1,5 @@
+environment: prod
+ingress:
+  hosts:
+    - name: craftsmen
+      host: bfl-form.craftsmen.prd.libra.bawag.com
